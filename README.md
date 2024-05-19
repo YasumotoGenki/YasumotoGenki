@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Genki YASUMOTO ([Profile page](https://yasumotogenki.github.io/))
+My name is Genki YASUMOTO ([Profile page](https://yasumotogenki.github.io/)) (under maintenance)
 
 - 🌱 I’m currently challenging some competitions (Atcoder and Kaggle)
   - [Atcoder account](https://atcoder.jp/users/Holism)
