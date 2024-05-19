@@ -2,8 +2,6 @@
 
 My name is Genki YASUMOTO ([Profile page](https://yasumotogenki.github.io/))
 
-- 🔭 I’m currently working at [DATAGRID inc.](https://datagrid.co.jp/)  
-  - Project manager and Machine learning engineer role
 - 🌱 I’m currently challenging some competitions (Atcoder and Kaggle)
   - [Atcoder account](https://atcoder.jp/users/Holism)
   - [Kaggle account](https://www.kaggle.com/genkiyasumoto) 
